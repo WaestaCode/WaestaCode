@@ -1,11 +1,10 @@
-# WAESTA
+# ⚡ WAESTA
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Reverse+Engineer;GTA+5+Mod+Developer;Low-Level+System+Explorer&font=Fira+Code&size=22&center=true&width=600&height=50&theme=dark&color=00FF99" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Reverse+Engineer;Software+Developer;System+Explorer&font=Fira+Code&size=22&center=true&width=600&height=50&theme=dark&color=00FF99" alt="Typing Banner" />
 </div>
 
 <p align="center">
-  <!-- Discord İkonu ve Senin ID'ne Tıklanabilir Link -->
   <a href="https://discord.com/users/332288319193088010">
     <img src="https://img.shields.io/badge/Discord-Connect_With_Me-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord ID" />
   </a>
@@ -14,9 +13,9 @@
 ---
 
 ### 🕵️ ABOUT MY WORK
-- ⚙️ Specializing in **Reverse Engineering** and understanding how systems operate under the hood.
-- 🚗 Actively developing custom projects, modifications, and advanced tools for **GTA 5**.
-- 🛠️ Passionate about memory manipulation, bypassing limits, and low-level development.
+- ⚙️ Specializing in **Reverse Engineering** and analyzing software architectures.
+- 🚗 Actively developing custom software, scripts, and advanced projects for **GTA 5**.
+- 🛠️ Passionate about creating efficient code, game server infrastructures, and backend logic.
 - 💡 "If it can be built, it can be taken apart and improved."
 
 ---
@@ -35,10 +34,9 @@
 ### 🌱 CURRENTLY LEARNING
 
 <p align="left">
-  <!-- Bir GTA 5 ve Tersine Mühendislik uzmanına yakışacak "öğrenilenler" köşesi -->
-  <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
 ---
@@ -46,6 +44,5 @@
 ### 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
-  <!-- Senin verdiğin, patlamayan yılan animasyonu linki -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Graph" width="100%" />
 </p>
