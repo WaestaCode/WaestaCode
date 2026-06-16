@@ -1,16 +1,51 @@
-## Hi there 👋
+# WAESTA
 
-<!--
-**WaestaCode/WaestaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Reverse+Engineer;GTA+5+Mod+Developer;Low-Level+System+Explorer&font=Fira+Code&size=22&center=true&width=600&height=50&theme=dark&color=00FF99" alt="Typing Banner" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Discord İkonu ve Senin ID'ne Tıklanabilir Link -->
+  <a href="https://discord.com/users/332288319193088010">
+    <img src="https://img.shields.io/badge/Discord-Connect_With_Me-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord ID" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🕵️ ABOUT MY WORK
+- ⚙️ Specializing in **Reverse Engineering** and understanding how systems operate under the hood.
+- 🚗 Actively developing custom projects, modifications, and advanced tools for **GTA 5**.
+- 🛠️ Passionate about memory manipulation, bypassing limits, and low-level development.
+- 💡 "If it can be built, it can be taken apart and improved."
+
+---
+
+### 💻 TECH STACK (Known)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+### 🌱 CURRENTLY LEARNING
+
+<p align="left">
+  <!-- Bir GTA 5 ve Tersine Mühendislik uzmanına yakışacak "öğrenilenler" köşesi -->
+  <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+---
+
+### 🐍 CONTRIBUTION GRAPH
+
+<p align="center">
+  <!-- Senin verdiğin, patlamayan yılan animasyonu linki -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Graph" width="100%" />
+</p>
